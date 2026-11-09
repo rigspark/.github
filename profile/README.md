@@ -11,13 +11,4 @@
 
 **RigSpark** runs open models on your own Mac. Your chats, files and code stay on your machine.
 
-**RigSpark Crew** puts a crew of AI helpers to work on that same Mac:
-
-| | | |
-|---|---|---|
-| **Sparky** | Writer · research | drafts, summaries, answers |
-| **Byte** | Coder | fixes issues and opens pull requests on your repos, asking before it pushes |
-| **Pixel** | Image Studio | images |
-| **Reel** | Video Studio | short videos |
-
 Commits Byte makes are co-authored by `Byte` and opened by `rigspark[bot]`.
